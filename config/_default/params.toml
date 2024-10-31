@@ -1,5 +1,5 @@
 # Hugo
-title = "Hyoho Niten Ichi Ryu"
+title = "Hyohō Niten Ichi-ryū"
 description = "Škola tradičního japonského šermu"
 images = ["cover.png"]
 
@@ -25,6 +25,7 @@ mainSections = ["skola"]
   navBarButtonText = "Get started"
 
   # FlexSearch
+  # VH: bez flexSearch nefunguje menu!!!
   flexSearch = true # true (default) or false
   searchExclKinds = [] # list of page kinds to exclude from search indexing (e.g. ["home", "taxonomy", "term"] )
   searchExclTypes = [] # list of content types to exclude from search indexing (e.g. ["blog", "docs", "legal", "contributors", "categories"])
@@ -33,8 +34,8 @@ mainSections = ["skola"]
 
   ## Search results
   showDate = false # false (default) or true
-  showSummary = true # true (default) or false
-  searchLimit = 99 # 0 (no limit, default) or natural number
+  showSummary = false # true (default) or false
+  searchLimit = 5 # 0 (no limit, default) or natural number
 
   # Global alert
   alert = false # false (default) or true

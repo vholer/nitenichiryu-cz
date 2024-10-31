@@ -17,7 +17,7 @@ defaultContentLanguage = "cs"
 disableLanguages = []
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = ""
 
 [build.buildStats]
   enable = true
