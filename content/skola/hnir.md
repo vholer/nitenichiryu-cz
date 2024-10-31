@@ -1,0 +1,13 @@
+---
+title: Hyohō Niten Ichi-ryū
+comments: false
+toc: false
+---
+
+Hyohō Niten Ichi-ryū, volně přeloženo jako *Škola strategie dvou nebes jako jednoho*, je škola tradičního japonského bojového umění meče (koryū kenjutsu). Založil ji na počátku 17.&nbsp;století slavný šermíř [Miyamoto Musashi](/skola/musashi).
+
+Pro školu je charakteristické používání dvou mečů zaráz -- dlouhého (katany) a krátkého (wakizashi). V té době bylo běžné držet meč oběma rukama, tudíž se jednalo o neobvyklý a (pro mnohé) neintuitivní způsob. Musashi ale byl přesvědčený, že meč držený oběma rukama je omezený v možnosti pohybu v porovnání s mečem drženým pouze v jedné ruce.
+
+Primárním zaměřením školy je šerm podle Musashiho učení (dlouhého, krátkého a obou mečů zaráz). V [osnovách](/skola/seiho) školy jsou zahrnuty ale i techniky s holí (bō) a dalšími zbraněmi. Techniky jsou přímočaré, bez zbytečných neefektivních pohybů. Důraz je kladen na přesnost, vzdálenost a načasování.
+
+Ve škole se respektuje koncept *"dosokai"*, kdy všichni jsou vnímáni jako studenti. Nejsou zde tudíž žádné technické stupně, pásky, či hodnosti s výjimkou jediného - titulu *sōke*. [Sōke](/skola/linie) je představitel školy zodpovědný za její vedení, reprezentaci a zachování tradice. Stávájící sōke, [Kajiya Takanori](/skola/linie), je 12. v pořadí v přímé linii sahající až k Miyamoto Musashim. Je možné se s ním setkat na některém z mezinárodních [seminářů](/seminare#mezinárodní-evropa).
