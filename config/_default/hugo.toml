@@ -1,5 +1,5 @@
 title = "Hyohō Niten Ichi-ryū"
-baseurl = "https://www.nitenichiryu.cz/"
+baseurl = "https://new.nitenichiryu.cz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
