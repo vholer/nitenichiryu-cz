@@ -1,22 +1,27 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "Hyohō Niten Ichi-ryū Česká republika"
+description = "Škola tradičního japonského šermu"
 images = ["cover.png"]
 
 # mainSections
-mainSections = ["docs"]
+mainSections = ["skola"]
 
 [social]
-  twitter = "getdoks"
+#  twitter = "getdoks"
+
+[umami]
+enabled = true
+selfHosted = false
+websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
 
 # Doks (@thulite/doks-core)
 [doks]
   # Color mode
-  colorMode = "auto" # auto (default), light or dark
-  colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
+  colorMode = "light" # auto (default), light or dark
+  colorModeToggler = false # true (default) or false (this setting is only relevant when colorMode = auto)
 
   # Navbar
-  navbarSticky = true # true (default) or false
+  navbarSticky = false # true (default) or false
   containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
@@ -25,6 +30,7 @@ mainSections = ["docs"]
   navBarButtonText = "Get started"
 
   # FlexSearch
+  # VH: bez flexSearch nefunguje menu!!!
   flexSearch = true # true (default) or false
   searchExclKinds = [] # list of page kinds to exclude from search indexing (e.g. ["home", "taxonomy", "term"] )
   searchExclTypes = [] # list of content types to exclude from search indexing (e.g. ["blog", "docs", "legal", "contributors", "categories"])
@@ -33,8 +39,8 @@ mainSections = ["docs"]
 
   ## Search results
   showDate = false # false (default) or true
-  showSummary = true # true (default) or false
-  searchLimit = 99 # 0 (no limit, default) or natural number
+  showSummary = false # true (default) or false
+  searchLimit = 5 # 0 (no limit, default) or natural number
 
   # Global alert
   alert = false # false (default) or true
@@ -47,7 +53,7 @@ mainSections = ["docs"]
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
-  headlineHash = true # true (default) or false
+  headlineHash = false # true (default) or false
   scrollSpy = true # true (default) or false
 
   # Multilingual
@@ -60,7 +66,7 @@ mainSections = ["docs"]
 
   # UX
   headerBar = false # true (default) or false
-  backgroundDots = true # true (default) or false
+  backgroundDots = false # true (default) or false
 
   # Homepage
   sectionFooter = false # false (default) or true
@@ -123,13 +129,13 @@ mainSections = ["docs"]
   [seo.favicons]
     sizes = []
     icon = "favicon.png" # favicon.png (default)
-    svgIcon = "favicon.svg" # favicon.svg (default)
-    maskIcon = "mask-icon.svg" # mask-icon.svg (default)
-    maskIconColor = "white" # white (default)
+    #svgIcon = "favicon.svg" # favicon.svg (default)
+    #maskIcon = "mask-icon.svg" # mask-icon.svg (default)
+    #maskIconColor = "white" # white (default)
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Thulite" # Name of Organization or Person
+    name = "Hyohō Niten Ichi-ryū Česká republika" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections

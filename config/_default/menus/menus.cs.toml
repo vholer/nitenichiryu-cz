@@ -1,0 +1,43 @@
+[[main]]
+  name = "Škola"
+  weight = 10
+  identifier = "skola"
+
+[[main]]
+  name = "Hyohō Niten Ichi-ryū"
+  url = "/skola/hnir"
+  weight = 10
+  parent = "skola"
+
+[[main]]
+  name = "Miyamoto Musashi"
+  url = "/skola/musashi"
+  weight = 20
+  parent = "skola"
+
+[[main]]
+  name = "Linie"
+  url = "/skola/linie"
+  weight = 30
+  parent = "skola"
+
+[[main]]
+  name = "Techniky"
+  url = "/skola/seiho"
+  weight = 40
+  parent = "skola"
+
+[[main]]
+  name = "Tréninky"
+  url = "/dojo/"
+  weight = 20
+
+[[main]]
+  name = "Semináře"
+  url = "/seminare"
+  weight = 30
+
+[[footer]]
+  name = "Kontakt"
+  url = "/kontakt"
+  weight = 10

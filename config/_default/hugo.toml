@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "Hyohō Niten Ichi-ryū"
+baseurl = "https://www.nitenichiryu.cz/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -7,17 +7,17 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
-paginate = 10
+languageCode = "cs-CZ"
+pagerSize = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
 # Multilingual
-defaultContentLanguage = "en"
-disableLanguages = ["de", "nl"]
+defaultContentLanguage = "cs"
+disableLanguages = []
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 Thulite"
+copyRight = ""
 
 [build.buildStats]
   enable = true
