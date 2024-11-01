@@ -4,7 +4,7 @@ comments: false
 toc: false
 ---
 
-Hyohō Niten Ichi-ryū, volně přeloženo jako *Škola strategie dvou nebes jako jednoho*, je škola tradičního japonského bojového umění meče (koryū kenjutsu). Založil ji na počátku 17.&nbsp;století slavný šermíř [Miyamoto Musashi](/skola/musashi).
+Hyohō Niten Ichi-ryū, volně přeloženo jako *Škola strategie dvou nebes jako jednoho jediného*, je škola tradičního japonského bojového umění meče (koryū kenjutsu). Založil ji na počátku 17.&nbsp;století slavný šermíř [Miyamoto Musashi](/skola/musashi).
 
 Pro školu je charakteristické používání dvou mečů zaráz -- dlouhého (katany) a krátkého (wakizashi). V té době bylo běžné držet meč oběma rukama, tudíž se jednalo o neobvyklý a (pro mnohé) neintuitivní způsob. Meč držený oběma rukama je však při secích omezený v plynulosti a flexibilitě, a navíc ne vždy je možné jej obouručně držet.
 
