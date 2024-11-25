@@ -8,6 +8,8 @@ seo:
   description: "Oficiální stránky Hyohō Niten Ichi-ryū Česká republika" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
+sitemap:
+  priority: 1.0
 ---
 
 <img src="images/tsuba.png" width="150px" />
