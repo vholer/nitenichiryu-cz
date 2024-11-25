@@ -29,8 +29,15 @@
 
 [[main]]
   name = "Tréninky"
-  url = "/dojo/"
+  url = "/cviceni/dojo/"
   weight = 20
+  identifier = "cviceni"
+
+# [[main]]
+#   name = "Dojo"
+#   weight = 10
+#   url = "/cviceni/dojo/"
+#   parent = "cviceni"
 
 [[main]]
   name = "Semináře"

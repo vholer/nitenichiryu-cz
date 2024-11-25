@@ -11,7 +11,7 @@ Momentálně není naplánovaná žádná událost.
 
 ## Mezinárodní (Evropa)
 
-Mezinárodní semináře se konají každoročně za účasti nejvyššího představitele školy z Japonska, [sōke](/skola/linie). Jedná se o jedinečnou příležitost navázat kontakty s účastníky z okolních států, získat zpětnou vazbu a zlepšit své cvičení. Pro osvojení základů je ale vhodnější začít cvičit zde v některém z [dojo](/dojo) nebo se zúčastnit místního semináře.
+Mezinárodní semináře se konají každoročně za účasti nejvyššího představitele školy z Japonska, [sōke](/skola/linie). Jedná se o jedinečnou příležitost navázat kontakty s účastníky z okolních států, získat zpětnou vazbu a zlepšit své cvičení. Pro osvojení základů je ale vhodnější začít cvičit zde v některém z [dojo](/cviceni/dojo) nebo se zúčastnit místního semináře.
 
 - **2025** -- Malta (termín bude upřesněn)
 - [2024](https://www.facebook.com/events/693465119634940/) -- Senec, Slovensko

@@ -52,9 +52,9 @@ copyRight = ""
     maxAge = -1 # "30m"
 
 [taxonomies]
-  contributor = "contributors"
-  category = "categories"
-  tag = "tags"
+  # contributor = "contributors"
+  # category = "categories"
+  # tag = "tags"
 
 [permalinks]
   blog = "/blog/:slug/"
