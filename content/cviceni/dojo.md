@@ -1,5 +1,6 @@
 ---
 title: "Dojo"
+description: "Místa a skupiny, kde se věnují Hyohō Niten Ichi-ryū"
 comments: false
 draft: false
 toc: false

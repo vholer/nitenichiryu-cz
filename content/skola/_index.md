@@ -1,5 +1,5 @@
 ---
-title: "Informace"
+title: "Škola"
 description: ""
 summary: ""
 draft: false

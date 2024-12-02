@@ -1,5 +1,6 @@
 ---
 title: "Kontakt"
+description: "Kontakty"
 comments: false
 draft: false
 toc: false

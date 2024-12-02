@@ -1,11 +1,11 @@
 ---
 title: "Hyohō Niten Ichi-ryū"
-description: "Titulní strana"
+description: "Oficiální stránky Hyohō Niten Ichi-ryū Česká republika"
 lead: "Škola tradičního japonského šermu"
 draft: false
 seo:
   title: "Hyohō Niten Ichi-ryū" # custom title (optional)
-  description: "Oficiální stránky Hyohō Niten Ichi-ryū Česká republika" # custom description (recommended)
+  description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 sitemap:

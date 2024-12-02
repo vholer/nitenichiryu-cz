@@ -1,5 +1,6 @@
 ---
 title: Linie
+description: "Linie představitelů školy od Miyamoto Musashiho až po současného sōke"
 comments: false
 draft: false
 toc: false

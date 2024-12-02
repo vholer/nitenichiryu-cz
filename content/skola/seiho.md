@@ -1,5 +1,6 @@
 ---
 title: Techniky
+description: "Techniky a seiho (kata) vyučované ve škole"
 comments: false
 draft: false
 toc: false

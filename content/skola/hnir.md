@@ -1,5 +1,6 @@
 ---
 title: Hyohō Niten Ichi-ryū
+description: "Historie a současnost Hyohō Niten Ichi-ryū"
 comments: false
 toc: false
 ---

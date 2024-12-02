@@ -1,5 +1,6 @@
 ---
 title: Miyamoto Musashi
+description: "Popis života jednoho z nejslavnějších šermířů Miyamoto Musashiho"
 comments: false
 toc: false
 ---
