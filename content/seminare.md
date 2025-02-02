@@ -14,7 +14,7 @@ Momentálně není naplánovaná žádná událost.
 
 Mezinárodní semináře se konají každoročně za účasti nejvyššího představitele školy z Japonska, [sōke](/skola/linie). Jedná se o jedinečnou příležitost navázat kontakty s účastníky z okolních států, získat zpětnou vazbu a zlepšit své cvičení. Pro osvojení základů je ale vhodnější začít cvičit zde v některém z [dojo](/cviceni/dojo) nebo se zúčastnit místního semináře.
 
-- **2025** -- Malta (termín bude upřesněn)
+- **16. - 21. září [2025](https://www.facebook.com/events/574763188658944/)** -- Malta
 - [2024](https://www.facebook.com/events/693465119634940/) -- Senec, Slovensko
 - 2023 -- Záhřeb, Chorvatsko
 - 2022 -- Griže, Slovinsko
