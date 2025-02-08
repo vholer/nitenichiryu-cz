@@ -25,6 +25,6 @@ Nejvyšší představitel školy, *sōke*, je zodpovědný za její vedení, rep
 
 <img src="/images/kajiya2.jpg" width="30%" style="float:right; padding-left: 15px" title="Kajiya Takanori, 12. sōke" />
 
-Kajiya Takanori je 12. sōke školy [Hyohō Niten Ichi-ryū](/skola/hnir). Tento titul získal 24. listopadu 2014 od 11. sōke Iwami Toshio Harukatsu během [oficiální ceremonie](https://www.hyoho.com/inuag.html) v zahradách hradu v Kokuře. Při této příležitosti obdržel potvrzení o úplném zvládnutí všech aspektů školy (*Menkyo Kaiden*) a původní dřevěný meč (*Jisso Enman no Bokuto*), který patřil samotnému Miyamoto Musashimu.
+Kajiya Takanori je 12. sōke školy [Hyohō Niten Ichi-ryū](/skola/hnir). Tento titul získal 24. listopadu 2014 od 11. sōke Iwami Toshio Harukatsu během [oficiální ceremonie](https://www.hyoho.com/inuag.html) v zahradách hradu v Kokuře. Při této příležitosti převzal potvrzení o úplném zvládnutí všech aspektů školy (*Menkyo Kaiden*) a původní dřevěný meč (*Jisso Enman no Bokuto*), který patřil samotnému Miyamoto Musashimu.
 
 Kajiya Takanori pokračuje ve šíření Musashiho učení jak ve svém domovském dojo v Japonsku, tak po celém světě prostřednictvím pravidelně pořádaných [seminářů](/seminare).
