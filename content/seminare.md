@@ -14,6 +14,7 @@ Momentálně není naplánovaná žádná událost.
 
 Mezinárodní semináře se konají každoročně za účasti nejvyššího představitele školy z Japonska, [sōke](/skola/linie). Jedná se o jedinečnou příležitost navázat kontakty s účastníky z okolních států, získat zpětnou vazbu a zdokonalit své cvičení. Obvykle však nejsou určeny pro úplné začátečníky. Pro osvojení základů je vhodnější nejdříve začít cvičit zde v některém z [dojo](/cviceni/dojo) nebo se zúčastnit regionálního semináře.
 
+- **[2026](https://www.facebook.com/events/2153906752023943/)** -- Sarajevo, Bosna a Hercegovina
 - [2025](https://www.facebook.com/events/574763188658944/) -- Ta' Qali, Malta
 - [2024](https://www.facebook.com/events/693465119634940/) -- Senec, Slovensko
 - 2023 -- Záhřeb, Chorvatsko
