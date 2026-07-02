@@ -8,9 +8,12 @@ toc: false
 
 ## Regionální
 
-<!-- Momentálně není naplánovaná žádná událost. -->
+Momentálně není naplánovaná žádná událost.
 
-- **[2026](https://www.facebook.com/events/1660753968448969)** -- Brno, workshop pro začátečníky
+Starší:
+
+- [2026](https://www.facebook.com/events/1660753968448969) -- Brno, workshop pro začátečníky
+- [2025](https://www.facebook.com/events/1796718364219448) -- Brno, workshop pro začátečníky
 
 ## Mezinárodní (Evropa)
 
