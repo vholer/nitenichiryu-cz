@@ -15,3 +15,7 @@ $font-family-sans-serif:
   "Segoe UI Emoji",
   "Segoe UI Symbol",
   "Noto Color Emoji";
+
+// Older color for links
+$link-color: #5D2F86;
+$link-hover-color: darken($link-color, 10%);
