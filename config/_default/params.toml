@@ -30,8 +30,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   navBarButtonText = "Get started"
 
   # FlexSearch
-  # VH: bez flexSearch nefunguje menu!!!
-  flexSearch = true # true (default) or false
+  flexSearch = false # true (default) or false
   searchExclKinds = [] # list of page kinds to exclude from search indexing (e.g. ["home", "taxonomy", "term"] )
   searchExclTypes = [] # list of content types to exclude from search indexing (e.g. ["blog", "docs", "legal", "contributors", "categories"])
   showSearch = [] # [] (all pages, default) or homepage (optionally) and list of sections (e.g. ["homepage", "blog", "guides"])
@@ -47,7 +46,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   alertDismissable = true # true (default) or false
 
   # Bootstrap
-  bootstrapJavascript = false # false (default) or true
+  bootstrapJavascript = true # false (default) or true; required for dropdown/offcanvas menus to work when flexSearch = false (search-modal.js is otherwise the only thing importing Bootstrap's JS)
 
   # Nav
   sectionSwitcher = false # true or false (default)
