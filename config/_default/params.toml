@@ -50,6 +50,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   bootstrapJavascript = false # false (default) or true
 
   # Nav
+  sectionSwitcher = false # true or false (default)
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
@@ -67,6 +68,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   # UX
   headerBar = false # true (default) or false
   backgroundDots = false # true (default) or false
+  aiButtons = true # true (default) or false
 
   # Homepage
   sectionFooter = false # false (default) or true
@@ -83,6 +85,8 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   docsRepo = "https://github.com/h-enk/doks"
   docsRepoBranch = "main" # main (default), master, or <branch name>
   docsRepoSubPath = "" # "" (none, default) or <sub path>
+
+  krokiURL = "https://kroki.io" # "https://kroki.io" (default) or custom URL like http://localhost:8000.
 
   # SCSS colors
   # backGround = "yellowgreen"
@@ -119,7 +123,8 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
 
 # Inline SVG (@thulite/inline-svg)
 [inline_svg]
-  iconSetDir = "tabler-icons" # "tabler-icons" (default)
+  iconSetDir = "tabler-icons" # tabler-icons (default)
+  iconSetVariant = "outline" # outline (default) or filled
 
 # SEO (@thulite/seo)
 [seo]
@@ -129,9 +134,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   [seo.favicons]
     sizes = []
     icon = "favicon.png" # favicon.png (default)
-    #svgIcon = "favicon.svg" # favicon.svg (default)
-    #maskIcon = "mask-icon.svg" # mask-icon.svg (default)
-    #maskIconColor = "white" # white (default)
+    svgIcon = "favicon.svg" # favicon.svg (default)
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)

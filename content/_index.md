@@ -13,7 +13,6 @@ sitemap:
 ---
 
 <img src="images/tsuba.png" width="150px" />
-<!-- <img src="images/musashi2.jpg" width="300px" /> -->
 
 <br/>
 <br/>
