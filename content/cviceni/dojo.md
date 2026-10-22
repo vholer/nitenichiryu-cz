@@ -11,15 +11,13 @@ Studiu Hyohō Niten Ichi-ryū se v České republice věnují:
 ### Kensei Dojo Brno
 
 - místo: Brno
-- [Facebook](https://www.facebook.com/kensei.dojo.brno), [WWW](http://www.kensei-dojo.com/)
-- [přihlašování na tréninky](http://www.kensei.banda.cz/)
+- tréninky: pondělí (19:00–21:00)
+- kontakt: [info.brno@kensei-dojo.com](mailto:info.brno@kensei-dojo.com)
+- [Facebook](https://www.facebook.com/kensei.dojo.brno), [web](http://www.kensei-dojo.com/), [přihlašování na tréninky](http://www.kensei.banda.cz/)
 
 ### Kōryūkai Dojo
 
 - místo: Praha
-- [https://koryukai.cz](https://koryukai.cz)
-
-### Shinobi Dojo
-
-- místo: Mladá Boleslav
-- [https://shinobi.cz](https://shinobi.cz)
+- tréninky: pondělí (17:30–18:30), čtvrtek (17:00–18:30)
+- kontakt: [filip@bujin.cz](mailto:filip@bujin.cz)
+- [web](https://koryukai.cz)
