@@ -1,6 +1,7 @@
 ---
 title: Techniky
-description: "Techniky a seiho (kata) vyučované ve škole"
+weight: 40
+description: "Vyučované zbraně a techniky"
 comments: false
 draft: false
 toc: false
@@ -20,6 +21,9 @@ Osnova školy zahrnuje výuku principů zacházení se zbraní, vzdáleností a 
 
 ## Kenjutsu
 
+<div class="seiho-columns">
+<div>
+
 #### Tachi Seiho
 
 1. Sassen
@@ -34,6 +38,9 @@ Osnova školy zahrnuje výuku principů zacházení se zbraní, vzdáleností a 
 10. Kazuki
 11. Aisen Uchidome
 12. Amashi Uchi
+
+</div>
+<div>
 
 #### Kodachi Seiho
 
@@ -53,7 +60,13 @@ Osnova školy zahrnuje výuku principů zacházení se zbraní, vzdáleností a 
 4. Hidari Waki Ggamae
 5. Migi Waki Gamae
 
+</div>
+</div>
+
 ## Bōjutsu
+
+<div class="seiho-columns">
+<div>
 
 #### Tachi Ai Bō Seiho
 
@@ -71,6 +84,9 @@ Osnova školy zahrnuje výuku principů zacházení se zbraní, vzdáleností a 
 12. Tsuki Bo
 13. Kayashi Bo
 
+</div>
+<div>
+
 #### Bō Ai Bō Seiho
 
 1. Okoshi Bo
@@ -80,3 +96,6 @@ Osnova školy zahrnuje výuku principů zacházení se zbraní, vzdáleností a 
 5. Hidari Bo
 6. Migi Bo
 7. Tomi Ai Bo
+
+</div>
+</div>

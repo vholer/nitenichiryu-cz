@@ -1,6 +1,7 @@
 ---
 title: Semináře
-description: "Seznam lokálních a mezinárodních seminářů"
+noPrevNext: true
+description: "Regionální a mezinárodní semináře"
 comments: false
 draft: false
 toc: false

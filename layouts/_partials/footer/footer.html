@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div class="container-{{ site.Params.doks.containerBreakpoint | default "lg" }}">
+    <div class="footer-bottom">
+      {{ range site.Menus.footer -}}
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{- end }}
+      {{ with site.Params.email -}}
+        <a href="mailto:{{ . }}">{{ . }}</a>
+      {{- end }}
+    </div>
+  </div>
+</footer>

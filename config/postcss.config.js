@@ -20,6 +20,7 @@ const purgecss = purgeCSSPlugin({
         'data-toggle-tab', // tabs.js
         'id',
         'size',
+        'style', // img[style*="float"] in _custom.scss
         'type'
     ],
     safelist: [

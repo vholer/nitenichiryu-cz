@@ -1,6 +1,7 @@
 # Hugo
 title = "Hyoho Niten Ichi-ryu Česká republika"
 description = "Škola tradičního japonského šermu"
+email = "info@nitenichiryu.cz"
 images = ["cover.png"]
 
 # mainSections
@@ -21,7 +22,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   colorModeToggler = false # true (default) or false (this setting is only relevant when colorMode = auto)
 
   # Navbar
-  navbarSticky = false # true (default) or false
+  navbarSticky = true # true (default) or false
   containerBreakpoint = "lg" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
@@ -67,7 +68,7 @@ websiteId = "15310c29-fbdd-4145-b633-39444e39636d"
   # UX
   headerBar = false # true (default) or false
   backgroundDots = false # true (default) or false
-  aiButtons = true # true (default) or false
+  aiButtons = false # true (default) or false
 
   # Homepage
   sectionFooter = false # false (default) or true

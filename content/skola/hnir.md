@@ -1,6 +1,7 @@
 ---
 title: Hyohō Niten Ichi-ryū
-description: "Historie a současnost Hyohō Niten Ichi-ryū"
+weight: 10
+description: "Historie a současnost školy"
 comments: false
 toc: false
 ---

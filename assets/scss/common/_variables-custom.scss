@@ -16,6 +16,12 @@ $font-family-sans-serif:
   "Segoe UI Symbol",
   "Noto Color Emoji";
 
-// Older color for links
-$link-color: #5D2F86;
+// Accent color (links, buttons, highlights)
+$link-color: #b3261e;
 $link-hover-color: darken($link-color, 10%);
+
+// Brand
+$primary: $link-color;
+$body-color: #1b1f24;
+$headings-color: #111418;
+$border-radius-lg: 1rem;

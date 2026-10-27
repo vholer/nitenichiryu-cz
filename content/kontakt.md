@@ -1,6 +1,8 @@
 ---
 title: "Kontakt"
+noPrevNext: true
 description: "Kontakty"
+lead: "Máte dotaz k webu nebo k tréninkům? Ozvěte se nám."
 comments: false
 draft: false
 toc: false

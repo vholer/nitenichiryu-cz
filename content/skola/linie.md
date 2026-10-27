@@ -1,6 +1,7 @@
 ---
 title: Linie
-description: "Linie představitelů školy od Miyamoto Musashiho až po současného sōke"
+weight: 30
+description: "Linie velmistrů školy od Musashiho až po součastnost"
 comments: false
 draft: false
 toc: false
